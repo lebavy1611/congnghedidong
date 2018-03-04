@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Giải phương trình bậc nhất</string>
+    <string name="input_a">Nhập số a:</string>
+    <string name="input_b">Nhập số b:</string>
+    <string name="result">Kết quả giải phương trình bậc nhất</string>
+    <string name="btn_result">Kết quả</string>
+</resources>
